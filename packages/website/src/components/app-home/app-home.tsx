@@ -10,7 +10,7 @@ export class AppHome {
 
   render() {
     return (
-      <wtf-logo></wtf-logo>
+      <wtf-logo color='white'></wtf-logo>
     );
   }
 }
