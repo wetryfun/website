@@ -3,8 +3,8 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.hhlg3lj3.js",
-  "corePolyfilled": "app.ue680n9u.js",
+  "core": "app.iwo4dyxh.js",
+  "corePolyfilled": "app.w1ihzaer.js",
   "components": {
     "app-home": {
       "bundleIds": {
@@ -13,23 +13,23 @@
     },
     "app-root": {
       "bundleIds": {
-        "$": "ppjsxfbx"
+        "$": "jws4hczc"
       },
       "encapsulation": "shadow"
     },
     "stencil-route": {
       "bundleIds": {
-        "$": "ppjsxfbx"
+        "$": "jws4hczc"
       }
     },
     "stencil-route-switch": {
       "bundleIds": {
-        "$": "ppjsxfbx"
+        "$": "jws4hczc"
       }
     },
     "stencil-router": {
       "bundleIds": {
-        "$": "ppjsxfbx"
+        "$": "jws4hczc"
       }
     },
     "wtf-logo": {
