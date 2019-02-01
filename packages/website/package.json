@@ -16,6 +16,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^23.3.13",
     "workbox-build": "3.4.1"
   }
 }
