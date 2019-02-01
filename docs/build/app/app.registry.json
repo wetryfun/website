@@ -3,12 +3,12 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.iwo4dyxh.js",
-  "corePolyfilled": "app.w1ihzaer.js",
+  "core": "app.ggldt3y2.js",
+  "corePolyfilled": "app.9jj2rvl6.js",
   "components": {
     "app-home": {
       "bundleIds": {
-        "$": "rx7mf328"
+        "$": "weyn5ovw"
       }
     },
     "app-root": {
@@ -34,7 +34,7 @@
     },
     "wtf-logo": {
       "bundleIds": {
-        "$": "rx7mf328"
+        "$": "weyn5ovw"
       }
     }
   }
