@@ -1,4 +1,4 @@
-import { Component } from '@stencil/core';
+import { Component, Prop, Element } from '@stencil/core';
 
 @Component({
   tag: 'wtf-logo',
@@ -6,6 +6,19 @@ import { Component } from '@stencil/core';
   shadow: false
 })
 export class Logo {
+  @Element() el: HTMLElement;
+
+  /**
+   * Sets logo color
+   */
+  @Prop() color: string  = null;
+
+  componentWillLoad() {
+    if (this.color !== null) {
+      this.el.style.setProperty('--color', this.color);
+    }
+  }
+
   render() {
     return (
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024'>

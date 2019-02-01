@@ -12,8 +12,18 @@ import '@stencil/core';
 
 export namespace Components {
 
-  interface WtfLogo {}
-  interface WtfLogoAttributes extends StencilHTMLAttributes {}
+  interface WtfLogo {
+    /**
+    * Sets logo color
+    */
+    'color': string;
+  }
+  interface WtfLogoAttributes extends StencilHTMLAttributes {
+    /**
+    * Sets logo color
+    */
+    'color'?: string;
+  }
 }
 
 declare global {

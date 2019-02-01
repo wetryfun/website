@@ -1,1 +1,10 @@
+/**
+ * @prop --color: Fill color of logo `tag:wtf-logo` `default:#000`
+ */
+wtf-logo {
+  --color: #000;
+}
 
+path {
+  fill: var(--color);
+}
