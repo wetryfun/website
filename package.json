@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "^3.10.7"
+  },
+  "name": "@wetryfun/wtf",
+  "private": true
+}

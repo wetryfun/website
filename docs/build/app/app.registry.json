@@ -1,0 +1,41 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.hhlg3lj3.js",
+  "corePolyfilled": "app.ue680n9u.js",
+  "components": {
+    "app-home": {
+      "bundleIds": {
+        "$": "rx7mf328"
+      }
+    },
+    "app-root": {
+      "bundleIds": {
+        "$": "ppjsxfbx"
+      },
+      "encapsulation": "shadow"
+    },
+    "stencil-route": {
+      "bundleIds": {
+        "$": "ppjsxfbx"
+      }
+    },
+    "stencil-route-switch": {
+      "bundleIds": {
+        "$": "ppjsxfbx"
+      }
+    },
+    "stencil-router": {
+      "bundleIds": {
+        "$": "ppjsxfbx"
+      }
+    },
+    "wtf-logo": {
+      "bundleIds": {
+        "$": "rx7mf328"
+      }
+    }
+  }
+}
