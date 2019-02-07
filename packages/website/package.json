@@ -10,13 +10,16 @@
     "test.watch": "stencil test --spec --e2e --watchAll"
   },
   "dependencies": {
+    "@material/layout-grid": "^0.41.0",
     "@stencil/core": "^0.17.2",
     "@stencil/router": "^0.3.3",
+    "@stencil/sass": "^0.1.1",
     "@wetryfun/core": "*"
   },
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^23.3.13",
-    "workbox-build": "3.4.1"
+    "workbox-build": "3.4.1",
+    "node-sass-import": "^2.0.1"
   }
 }
