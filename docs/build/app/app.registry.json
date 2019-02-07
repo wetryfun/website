@@ -3,38 +3,37 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.ggldt3y2.js",
-  "corePolyfilled": "app.9jj2rvl6.js",
+  "core": "app.f6z1pggz.js",
+  "corePolyfilled": "app.2e5rm1j7.js",
   "components": {
     "app-home": {
       "bundleIds": {
-        "$": "weyn5ovw"
+        "$": "cjvm8u8f"
       }
     },
     "app-root": {
       "bundleIds": {
-        "$": "jws4hczc"
-      },
-      "encapsulation": "shadow"
+        "$": "fg7cvtjy"
+      }
     },
     "stencil-route": {
       "bundleIds": {
-        "$": "jws4hczc"
+        "$": "fg7cvtjy"
       }
     },
     "stencil-route-switch": {
       "bundleIds": {
-        "$": "jws4hczc"
+        "$": "fg7cvtjy"
       }
     },
     "stencil-router": {
       "bundleIds": {
-        "$": "jws4hczc"
+        "$": "fg7cvtjy"
       }
     },
     "wtf-logo": {
       "bundleIds": {
-        "$": "weyn5ovw"
+        "$": "cjvm8u8f"
       }
     }
   }
